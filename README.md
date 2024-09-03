@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iam-sharath
+- 👋 Hi, I’m Sharath
 - 👀 I’m interested in web development, particularly in JavaScript, React.js, and building intuitive user interfaces.
 - 🌱 I’m currently learning full stack development, including both frontend and backend technologies.
 - 💞️ I’m looking to collaborate on innovative projects and full stack web applications.
