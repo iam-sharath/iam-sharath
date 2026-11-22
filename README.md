@@ -17,5 +17,3 @@
 🤝 Open to collaborating on meaningful projects and learning from the developer community.
 
 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sharath-bonkanpelli-5a3264284)
-
-⚡ Fun fact: I enjoy turning creative ideas into working applications!
