@@ -3,7 +3,7 @@
 💻 **Full Stack Developer** passionate about building practical web applications and solving real-world problems.
 
 🚀 **Technical Skills:**
-- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Bootstrap, Tailwind CSS
+- **Frontend:** HTML, CSS, JavaScript, React.js
 - **Backend:** Node.js, Express.js, REST APIs
 - **Databases:** MongoDB, PostgreSQL, MySQL, Firebase
 - **Programming:** JavaScript, Python, SQL
