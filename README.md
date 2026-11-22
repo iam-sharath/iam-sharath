@@ -1,8 +1,21 @@
-- 👋 Hi, I’m Sharath
-- 👀 I’m interested in web development, particularly in JavaScript, React.js, and building intuitive user interfaces.
-- 🌱 I’m currently learning full stack development, including both frontend and backend technologies.
-- 💞️ I’m looking to collaborate on innovative projects and full stack web applications.
-- 📫 How to reach me?, Connect with me on LinkedIn (www.linkedin.com/in/sharath-bonkanpelli-5a3264284)
-- 😄 Pronouns:He/Him
-- ⚡ Fun fact:I enjoy making creative Instagram Reels.
+👋 Hi, I'm Sharath Bonkanpelli
 
+💻 **Full Stack Developer** passionate about building practical web applications and solving real-world problems.
+
+🚀 **Technical Skills:**
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js, TypeScript, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase
+- **Programming:** JavaScript, Python, SQL
+- **Tools:** Git, GitHub, VS Code, Postman
+- **AI Technologies:** LLM APIs, Prompt Engineering, RAG, Vector Search
+
+🌱 Currently exploring AI-powered applications, full-stack development, and modern web technologies.
+
+🛠️ Interested in building innovative projects, scalable applications, and intelligent solutions.
+
+🤝 Open to collaborating on meaningful projects and learning from the developer community.
+
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sharath-bonkanpelli-5a3264284)
+
+⚡ Fun fact: I enjoy turning creative ideas into working applications!
